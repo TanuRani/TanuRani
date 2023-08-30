@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TanuRani
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently swwotting my programming skills.
+- 🌱 I’m currently swotting my programming skills.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me:Drop an email on hustlerforr11@gmail.com
 
