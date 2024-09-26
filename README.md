@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TanuRani
+- 👋 Hi, I’m @Tanu
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently swotting my programming skills.
 - 💞️ I’m looking to collaborate on open source projects.
